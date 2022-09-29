@@ -1,9 +1,9 @@
 
-function Deal() {
+function Deals() {
     return(
         <div>
-            <h4>Deal</h4>
+            <h4>Deals</h4>
         </div>
     )
 };
-export default Deal;
+export default Deals;
