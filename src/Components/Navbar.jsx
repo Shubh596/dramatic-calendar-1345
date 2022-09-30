@@ -66,7 +66,7 @@ function Navbar() {
         style={{marginBottom:"50px"}}
         >
         <input type="text"
-        style={{height:"38px"}}
+        style={{height:"38px", width:"300%"}}
         />
         <button style={{border:"1px solid", padding:"6px 20px"}}>Search</button>
         </div>
